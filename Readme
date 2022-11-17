@@ -1,0 +1,15 @@
+#File Reader
+
+Run the Spring boot application and use following urls 
+
+#For upload file 
+post : http://localhost:8080/fileReader/upload
+
+#For fetchAll data 
+get : http://localhost:8080/fileReader/fetchAll 
+
+#For Fetch by code
+get : http://localhost:8080/fileReader/fetchByCode/271636001
+
+#For DeleteAll
+http://localhost:8080/fileReader/deleteAll
