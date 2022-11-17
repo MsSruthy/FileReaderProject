@@ -4,6 +4,7 @@ Run the Spring boot application and use following urls
 
 #For upload file 
 post : http://localhost:8080/fileReader/upload
+In postman request body attach file 
 
 #For fetchAll data 
 get : http://localhost:8080/fileReader/fetchAll 
